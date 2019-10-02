@@ -1,0 +1,77 @@
+[
+  {
+    "name": "automerge",
+    "description": null,
+    "color": "BCE6F4"
+  },
+  {
+    "name": "autorebase",
+    "description": null,
+    "color": "F4D3B2"
+  },
+  {
+    "name": "bug",
+    "description": null,
+    "color": "F4989E"
+  },
+  {
+    "name": "dependencies",
+    "description": null,
+    "color": "F2B6F2"
+  },
+  {
+    "name": "documentation",
+    "description": null,
+    "color": "A1A6F3"
+  },
+  {
+    "name": "enhancement",
+    "description": null,
+    "color": "9CEFC5"
+  },
+  {
+    "name": "in progress",
+    "description": null,
+    "color": "D3F49D"
+  },
+  {
+    "name": "performance",
+    "description": null,
+    "color": "FFD100"
+  },
+  {
+    "name": "refactor",
+    "description": null,
+    "color": "FEF201"
+  },
+  {
+    "name": "release",
+    "description": null,
+    "color": "EC909B"
+  },
+  {
+    "name": "skip ci",
+    "description": null,
+    "color": "E3BBED"
+  },
+  {
+    "name": "skip release",
+    "description": null,
+    "color": "C3976B"
+  },
+  {
+    "name": "stale",
+    "description": null,
+    "color": "ececec"
+  },
+  {
+    "name": "testing",
+    "description": null,
+    "color": "AAD5EE"
+  },
+  {
+    "name": "tooling",
+    "description": null,
+    "color": "bcf5db"
+  }
+]
